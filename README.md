@@ -16,7 +16,7 @@ Since the move to FAP, your "plugins" are now known as "applications"
   * Live on the SDCard
   * Do NOT require code edits outside their own directory
 
-The upshot is easier development, and (essentailly) unlimited features on your Flipper!
+The upshot is easier development, and (essentially) unlimited features on your Flipper!
 
 # If you have not yet installed the FlipperZero devkit
 ```
@@ -34,7 +34,7 @@ Note:
 * `flash_usb` is used to install JUST the firmware<br/>
 * `flash_usb_full` also installs the "resources" (images and such)<br/>
 
-Be aware that since the introdcution of FAP, Applications are Resources (in the same way that Images are Resources).
+Be aware that since the introduction of FAP, Applications are Resources (in the same way that Images are Resources).
 
 # After the devkit is installed
 Assuming your devkit is in: `~/flipperZero/official/`<br/>
